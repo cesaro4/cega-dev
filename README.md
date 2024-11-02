@@ -85,6 +85,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+<br>
+
 </div>
 
 ---
@@ -101,7 +103,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Byte-Repository&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&card_width=400&height=200" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Byte-Repository&theme=gruvbox&hide_border=false&card_width=400&height=200" alt="GitHub Streak" />
 </div>
-
----
-
-![Your Alt Text](assets/footer.gif)
