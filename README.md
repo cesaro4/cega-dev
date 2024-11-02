@@ -17,19 +17,18 @@
 ---
 
 <div align="center">
-
-<p style="font-family: 'Fira Code', monospace; color: #00A1E4;">
-🚀 <strong>Tech Entrepreneur</strong> sharing my journey and insights in the tech world.<br>  
-🎓 <strong>Studied Computer Information Systems</strong> at the University of West Texas A&M, USA.<br>  
-💼 <strong>Aspiring Business Owner</strong> and lifelong learner, constantly exploring new horizons.<br>  
-🧠 <strong>#knowledgeIsCool</strong> when you know what you're doing!<br>
-</p>
-
+    <p style="font-family: 'Fira Code', monospace; color: #00A1E4;">
+    🚀 <strong>Tech Entrepreneur</strong> sharing my journey and insights in the tech world.<br>  
+    🎓 <strong>Studied Computer Information Systems</strong> at the University of West Texas A&M, USA.<br>  
+    💼 <strong>Aspiring Business Owner</strong> and lifelong learner, constantly exploring new horizons.<br>  
+    🧠 <strong>#knowledgeIsCool</strong> when you know what you're doing!<br>
+    </p>
 </div>
-
 
 <br>
 
+<div align="center">
+    
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
@@ -85,6 +84,8 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+</div>
 
 ---
 
