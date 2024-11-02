@@ -16,12 +16,17 @@
 
 ---
 
-<p style="font-family: 'Fira Code', monospace; text-align: center; color: #00A1E4;">
+<div align="center">
+
+<p style="font-family: 'Fira Code', monospace; color: #00A1E4;">
 🚀 <strong>Tech Entrepreneur</strong> sharing my journey and insights in the tech world.<br>  
 🎓 <strong>Studied Computer Information Systems</strong> at the University of West Texas A&M, USA.<br>  
 💼 <strong>Aspiring Business Owner</strong> and lifelong learner, constantly exploring new horizons.<br>  
 🧠 <strong>#knowledgeIsCool</strong> when you know what you're doing!<br>
 </p>
+
+</div>
+
 
 <br>
 
