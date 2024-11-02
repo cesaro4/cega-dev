@@ -8,6 +8,8 @@
   <!-- Links -->
   <a href="https://discord.gg/EuZWYaKnxm"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://www.linkedin.com/in/cesar-ortega-9091891b1/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    
+[![](https://visitcount.itsvg.in/api?id=Byte-Repository&icon=0&color=3)](https://visitcount.itsvg.in)
 </div>
 
 ---
@@ -52,7 +54,5 @@
 </div>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=Byte-Repository&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ![Your Alt Text](assets/footer.gif)
