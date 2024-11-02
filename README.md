@@ -1,7 +1,9 @@
 ![Your Alt Text](assets/header.gif)
+<br>
+<br>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00A1E4&width=450&height=30&lines=👋+Hi,+I'm+Cesar..;Tech+Entrepreneur;CIS+Graduate;Aspiring+Business+Owner..;Building+For+Small+Businesses..;Let's+Connect+and+Collaborate!&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00A1E4&width=450&height=30&lines=👋+Hi,+I'm+Cesar..;Student;Tech+Entrepreneur;CIS+Graduate;Aspiring+Business+Owner..;Building+For+Small+Businesses..;Let's+Connect+and+Collaborate!&center=true">
 </p>
     
 <div align="center">
