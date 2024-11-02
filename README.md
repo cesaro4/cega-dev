@@ -1,9 +1,25 @@
-# 👋 Hi, I'm Cesar! 
+![Your Alt Text](assets/header.gif)
 
-🚀 **Tech Entrepreneur** sharing my journey and insights in the tech world.  
-🎓 **Studied Computer Information Systems** at the University of West Texas A&M, USA.  
-💼 **Aspiring Business Owner** and lifelong learner, constantly exploring new horizons.  
-🧠 **#knowledgeIsCool** when you know what you're doing!
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00A1E4&width=450&height=30&lines=👋+Hi,+I'm+Cesar..;Tech+Entrepreneur;CIS+Graduate;Aspiring+Business+Owner..;Building+For+Small+Businesses..;Let's+Connect+and+Collaborate!&center=true">
+</p>
+    
+<div align="center">
+  <!-- Links -->
+  <a href="https://discord.gg/EuZWYaKnxm"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://www.linkedin.com/in/cesar-ortega-9091891b1/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
+
+---
+
+<p style="font-family: 'Fira Code', monospace; text-align: center; color: #00A1E4;">
+🚀 <strong>Tech Entrepreneur</strong> sharing my journey and insights in the tech world.<br>  
+🎓 <strong>Studied Computer Information Systems</strong> at the University of West Texas A&M, USA.<br>  
+💼 <strong>Aspiring Business Owner</strong> and lifelong learner, constantly exploring new horizons.<br>  
+🧠 <strong>#knowledgeIsCool</strong> when you know what you're doing!<br>
+</p>
+
+<br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -19,17 +35,16 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 ---
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/EuZWYaKnxm) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-ortega-9091891b1/) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/cesseey) 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MdnadeemSarwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--START_SECTION:waka-->
 
 ---
 
-<div>
+<div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Byte-Repository&limit=5&theme=gruvbox&combine_all_yearly_contributions=true&card_width=400&height=200" alt="GitHub Contributors" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byte-Repository&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=325&height=200" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=Byte-Repository&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&card_width=400&height=200" alt="GitHub Stats" />
@@ -40,4 +55,3 @@
 
 [![](https://visitcount.itsvg.in/api?id=Byte-Repository&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
