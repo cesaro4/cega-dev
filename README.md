@@ -11,7 +11,7 @@
   <a href="https://discord.gg/EuZWYaKnxm"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://www.linkedin.com/in/cesar-ortega-9091891b1/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-[![Github](https://img.shields.io/github/followers/Byte-Repository?color=2)](https://github.com/Byte-Repository) [![](https://visitcount.itsvg.in/api?id=Byte-Repository&icon=0&color=2)](https://visitcount.itsvg.in)
+[![Github](https://img.shields.io/github/followers/cega-dev?color=2)](https://github.com/cega-dev) [![](https://visitcount.itsvg.in/api?id=cega-dev&icon=0&color=2)](https://visitcount.itsvg.in)
 </div>
 
 ---
@@ -107,8 +107,8 @@
 
  <br>
  
-  <img src="https://github-readme-stats.vercel.app/api?username=Byte-Repository&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&card_width=325&height=200" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Byte-Repository&theme=gruvbox&hide_border=false&card_width=400&height=200" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cega-dev&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&card_width=325&height=200" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cega-dev&theme=gruvbox&hide_border=false&card_width=400&height=200" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cega-dev&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=325&height=200" alt="Top Languages" />
 </div>
 
