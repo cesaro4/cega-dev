@@ -109,7 +109,7 @@
  
   <img src="https://github-readme-stats.vercel.app/api?username=Byte-Repository&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&card_width=325&height=200" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Byte-Repository&theme=gruvbox&hide_border=false&card_width=400&height=200" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byte-Repository&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=325&height=200" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cega-dev&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=325&height=200" alt="Top Languages" />
 </div>
 
 ---
